@@ -1,0 +1,6 @@
+com\diego\service\BaralhoService.class
+com\diego\comum\CartasException.class
+com\diego\rest\RESTFulJogoCartas.class
+com\diego\model\CartaBean.class
+com\diego\bo\AcessoBaralhoBO.class
+com\diego\model\BaralhoBean.class
